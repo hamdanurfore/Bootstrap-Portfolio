@@ -23,3 +23,25 @@
 .nav-item {
   margin: 0px 15px;
 }
+
+/* Jumbotron  */
+.skyBackground {
+  background-image: url(../images/bg-image.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: calc(100vh - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Jumbotron copy */
+.jumboCopy {
+  width: 70%;
+  min-width: 500px;
+  max-width: 700px;
+  color: black;
+  text-align: left;
+}
+
+
