@@ -10,7 +10,7 @@ Welcome to my Portfolio! This webpage showcases my skills utilising HTML, CSS an
 - [License](#license)
 
 # Introduction
-This webpage serves as a digital portfolio for showcasing my work as a beginner. It's designed to introduce visitors to my skills, projects, and a bit about who I am. Whether you're a potential employer, a fellow developer, or simply curious about what I do, you'll find valuable information here.
+This webpage serves as a digital portfolio for showcasing my work as a beginner. It's designed to introduce visitors to my skills, projects, and a bit about who I am. Whether you're a potential employer, a fellow developer, or simply curious about what I do, you'll find valuable information here. It's a development from my previous portfolio which didn't contain elements of Bootstrap.
 
 # Features
 - About Me: Learn more about me, my background, and what drives my passion for web development.
